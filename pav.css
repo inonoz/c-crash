@@ -1,0 +1,9 @@
+body {
+    height: 150vh;
+    background-color: coral;
+    background-image: url('https://images5.alphacoders.com/587/587772.jpg');
+    background-size: 500px;
+    background-position-x:center;
+    background-position-y:center;
+    background-repeat: no-repeat;
+}
